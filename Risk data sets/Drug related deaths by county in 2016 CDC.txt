@@ -1,0 +1,127 @@
+"Notes"	"County"	"County Code"	Deaths	Population	Crude Rate	Age Adjusted Rate	% of Total Deaths
+	"Adams County, PA"	"42001"	26	102180	25.4	28.2	0.5%
+	"Allegheny County, PA"	"42003"	635	1225365	51.8	52.0	13.3%
+	"Armstrong County, PA"	"42005"	47	66486	70.7	80.4	1.0%
+	"Beaver County, PA"	"42007"	115	167429	68.7	79.4	2.4%
+	"Bedford County, PA"	"42009"	Suppressed	48325	Suppressed	Suppressed	Suppressed
+	"Berks County, PA"	"42011"	109	414812	26.3	27.3	2.3%
+	"Blair County, PA"	"42013"	44	124650	35.3	41.5	0.9%
+	"Bradford County, PA"	"42015"	13	60770	Unreliable	Unreliable	0.3%
+	"Bucks County, PA"	"42017"	222	626399	35.4	37.8	4.7%
+	"Butler County, PA"	"42019"	84	186847	45.0	53.1	1.8%
+	"Cambria County, PA"	"42021"	101	134732	75.0	90.5	2.1%
+	"Cameron County, PA"	"42023"	Suppressed	4677	Suppressed	Suppressed	Suppressed
+	"Carbon County, PA"	"42025"	25	63594	39.3	47.4	0.5%
+	"Centre County, PA"	"42027"	19	161464	Unreliable	Unreliable	0.4%
+	"Chester County, PA"	"42029"	119	516312	23.0	24.0	2.5%
+	"Clarion County, PA"	"42031"	Suppressed	38513	Suppressed	Suppressed	Suppressed
+	"Clearfield County, PA"	"42033"	13	80596	Unreliable	Unreliable	0.3%
+	"Clinton County, PA"	"42035"	14	39233	Unreliable	Unreliable	0.3%
+	"Columbia County, PA"	"42037"	15	66420	Unreliable	Unreliable	0.3%
+	"Crawford County, PA"	"42039"	40	86257	46.4	53.0	0.8%
+	"Cumberland County, PA"	"42041"	62	248506	24.9	26.4	1.3%
+	"Dauphin County, PA"	"42043"	82	273707	30.0	31.2	1.7%
+	"Delaware County, PA"	"42045"	241	563402	42.8	44.2	5.1%
+	"Elk County, PA"	"42047"	Suppressed	30480	Suppressed	Suppressed	Suppressed
+	"Erie County, PA"	"42049"	85	276207	30.8	33.4	1.8%
+	"Fayette County, PA"	"42051"	76	132733	57.3	63.6	1.6%
+	"Forest County, PA"	"42053"	Suppressed	7321	Suppressed	Suppressed	Suppressed
+	"Franklin County, PA"	"42055"	43	153851	27.9	31.2	0.9%
+	"Fulton County, PA"	"42057"	11	14640	Unreliable	Unreliable	0.2%
+	"Greene County, PA"	"42059"	24	37197	64.5	68.6	0.5%
+	"Huntingdon County, PA"	"42061"	12	45634	Unreliable	Unreliable	0.3%
+	"Indiana County, PA"	"42063"	47	86364	54.4	61.4	1.0%
+	"Jefferson County, PA"	"42065"	Suppressed	44073	Suppressed	Suppressed	Suppressed
+	"Juniata County, PA"	"42067"	Suppressed	24863	Suppressed	Suppressed	Suppressed
+	"Lackawanna County, PA"	"42069"	80	211321	37.9	42.5	1.7%
+	"Lancaster County, PA"	"42071"	122	538500	22.7	24.4	2.6%
+	"Lawrence County, PA"	"42073"	41	87294	47.0	56.1	0.9%
+	"Lebanon County, PA"	"42075"	16	138863	Unreliable	Unreliable	0.3%
+	"Lehigh County, PA"	"42077"	105	363147	28.9	29.1	2.2%
+	"Luzerne County, PA"	"42079"	157	316383	49.6	51.3	3.3%
+	"Lycoming County, PA"	"42081"	31	115248	26.9	30.7	0.7%
+	"Mc Kean County, PA"	"42083"	Suppressed	41883	Suppressed	Suppressed	Suppressed
+	"Mercer County, PA"	"42085"	35	112913	31.0	36.7	0.7%
+	"Mifflin County, PA"	"42087"	13	46342	Unreliable	Unreliable	0.3%
+	"Monroe County, PA"	"42089"	35	166098	21.1	22.7	0.7%
+	"Montgomery County, PA"	"42091"	246	821725	29.9	31.3	5.2%
+	"Montour County, PA"	"42093"	10	18343	Unreliable	Unreliable	0.2%
+	"Northampton County, PA"	"42095"	88	302294	29.1	30.7	1.8%
+	"Northumberland County, PA"	"42097"	32	92541	34.6	36.7	0.7%
+	"Perry County, PA"	"42099"	14	45820	Unreliable	Unreliable	0.3%
+	"Philadelphia County, PA"	"42101"	751	1567872	47.9	47.9	15.8%
+	"Pike County, PA"	"42103"	19	55562	Unreliable	Unreliable	0.4%
+	"Potter County, PA"	"42105"	Suppressed	16885	Suppressed	Suppressed	Suppressed
+	"Schuylkill County, PA"	"42107"	65	143573	45.3	47.2	1.4%
+	"Snyder County, PA"	"42109"	Suppressed	40468	Suppressed	Suppressed	Suppressed
+	"Somerset County, PA"	"42111"	28	75061	37.3	42.6	0.6%
+	"Sullivan County, PA"	"42113"	Suppressed	6137	Suppressed	Suppressed	Suppressed
+	"Susquehanna County, PA"	"42115"	14	40862	Unreliable	Unreliable	0.3%
+	"Tioga County, PA"	"42117"	Suppressed	41467	Suppressed	Suppressed	Suppressed
+	"Union County, PA"	"42119"	Suppressed	45565	Suppressed	Suppressed	Suppressed
+	"Venango County, PA"	"42121"	13	52582	Unreliable	Unreliable	0.3%
+	"Warren County, PA"	"42123"	Suppressed	40025	Suppressed	Suppressed	Suppressed
+	"Washington County, PA"	"42125"	110	207981	52.9	61.3	2.3%
+	"Wayne County, PA"	"42127"	16	50710	Unreliable	Unreliable	0.3%
+	"Westmoreland County, PA"	"42129"	209	355458	58.8	66.7	4.4%
+	"Wyoming County, PA"	"42131"	Suppressed	27521	Suppressed	Suppressed	Suppressed
+	"York County, PA"	"42133"	107	443744	24.1	25.7	2.2%
+"Total"			4762	12784227	37.2	38.8	100.0%
+"---"
+"Dataset: Underlying Cause of Death, 1999-2016"
+"Query Parameters:"
+"Title:"
+"2013 Urbanization: All"
+"Autopsy: All"
+"Drug/Alcohol Induced Causes: Drug-induced causes"
+"Gender: All"
+"Hispanic Origin: All"
+"Place of Death: All"
+"Race: All"
+"States: Pennsylvania (42)"
+"Ten-Year Age Groups: All"
+"Weekday: All"
+"Year/Month: 2016"
+"Group By: County"
+"Show Totals: True"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Standard Population: 2000 U.S. Std. Population"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Oct 5, 2018 12:25:16 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2016 on CDC WONDER Online Database, released December, 2017. Data are from the Multiple Cause of Death Files, 1999-2016, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Oct 5, 2018 12:25:16 PM"
+"---"
+Caveats:
+"1. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality."
+"2. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"3. The populations used to calculate standard age-adjusted rates are documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#2000 Standard Population."
+"4. The method used to calculate age-adjusted rates is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Age-Adjusted Rates."
+"5. Deaths for persons of unknown age are included in counts and crude rates, but are not included in age-adjusted rates."
+"6. The population figures for year 2016 are bridged-race estimates of the July 1 resident population, from the Vintage 2016"
+"postcensal series released by NCHS on June 26, 2017. The population figures for year 2015 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2015 postcensal series released by NCHS on June 28, 2016. The population figures for"
+"year 2014 are bridged-race estimates of the July 1 resident population, from the Vintage 2014 postcensal series released by NCHS"
+"on June 30, 2015. The population figures for year 2013 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2013 postcensal series released by NCHS on June 26, 2014. The population figures for year 2012 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2012 postcensal series released by NCHS on June 13, 2013. The"
+"population figures for year 2011 are bridged-race estimates of the July 1 resident population, from the Vintage 2011 postcensal"
+"series released by NCHS on July 18, 2012. Population figures for 2010 are April 1 Census counts. The population figures for"
+"years 2001 - 2009 are bridged-race estimates of the July 1 resident population, from the revised intercensal county-level 2000 -"
+"2009 series released by NCHS on October 26, 2012. Population figures for 2000 are April 1 Census counts. Population figures for"
+"1999 are from the 1990-1999 intercensal series of July 1 estimates. Population figures for the infant age groups are the number"
+"of live births. <br/><b>Note:</b> Rates and population figures for years 2001 - 2009 differ slightly from previously published"
+"reports, due to use of the population estimates which were available at the time of release."
+"7. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."

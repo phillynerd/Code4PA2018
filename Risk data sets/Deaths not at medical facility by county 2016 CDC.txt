@@ -1,0 +1,115 @@
+"Notes"	"County"	"County Code"	Deaths	Population	Crude Rate	Age Adjusted Rate	% of Total Deaths
+	"Adams County, PA"	"42001"	19	Not Applicable	Not Applicable	Not Applicable	0.5%
+	"Allegheny County, PA"	"42003"	516	Not Applicable	Not Applicable	Not Applicable	14.4%
+	"Armstrong County, PA"	"42005"	33	Not Applicable	Not Applicable	Not Applicable	0.9%
+	"Beaver County, PA"	"42007"	86	Not Applicable	Not Applicable	Not Applicable	2.4%
+	"Bedford County, PA"	"42009"	Suppressed	Not Applicable	Not Applicable	Not Applicable	Suppressed
+	"Berks County, PA"	"42011"	73	Not Applicable	Not Applicable	Not Applicable	2.0%
+	"Blair County, PA"	"42013"	31	Not Applicable	Not Applicable	Not Applicable	0.9%
+	"Bradford County, PA"	"42015"	12	Not Applicable	Not Applicable	Not Applicable	0.3%
+	"Bucks County, PA"	"42017"	172	Not Applicable	Not Applicable	Not Applicable	4.8%
+	"Butler County, PA"	"42019"	60	Not Applicable	Not Applicable	Not Applicable	1.7%
+	"Cambria County, PA"	"42021"	83	Not Applicable	Not Applicable	Not Applicable	2.3%
+	"Cameron County, PA"	"42023"	Suppressed	Not Applicable	Not Applicable	Not Applicable	Suppressed
+	"Carbon County, PA"	"42025"	16	Not Applicable	Not Applicable	Not Applicable	0.4%
+	"Centre County, PA"	"42027"	10	Not Applicable	Not Applicable	Not Applicable	0.3%
+	"Chester County, PA"	"42029"	94	Not Applicable	Not Applicable	Not Applicable	2.6%
+	"Clarion County, PA"	"42031"	Suppressed	Not Applicable	Not Applicable	Not Applicable	Suppressed
+	"Clearfield County, PA"	"42033"	10	Not Applicable	Not Applicable	Not Applicable	0.3%
+	"Clinton County, PA"	"42035"	Suppressed	Not Applicable	Not Applicable	Not Applicable	Suppressed
+	"Columbia County, PA"	"42037"	13	Not Applicable	Not Applicable	Not Applicable	0.4%
+	"Crawford County, PA"	"42039"	26	Not Applicable	Not Applicable	Not Applicable	0.7%
+	"Cumberland County, PA"	"42041"	53	Not Applicable	Not Applicable	Not Applicable	1.5%
+	"Dauphin County, PA"	"42043"	65	Not Applicable	Not Applicable	Not Applicable	1.8%
+	"Delaware County, PA"	"42045"	182	Not Applicable	Not Applicable	Not Applicable	5.1%
+	"Elk County, PA"	"42047"	Suppressed	Not Applicable	Not Applicable	Not Applicable	Suppressed
+	"Erie County, PA"	"42049"	64	Not Applicable	Not Applicable	Not Applicable	1.8%
+	"Fayette County, PA"	"42051"	54	Not Applicable	Not Applicable	Not Applicable	1.5%
+	"Forest County, PA"	"42053"	Suppressed	Not Applicable	Not Applicable	Not Applicable	Suppressed
+	"Franklin County, PA"	"42055"	26	Not Applicable	Not Applicable	Not Applicable	0.7%
+	"Fulton County, PA"	"42057"	Suppressed	Not Applicable	Not Applicable	Not Applicable	Suppressed
+	"Greene County, PA"	"42059"	19	Not Applicable	Not Applicable	Not Applicable	0.5%
+	"Huntingdon County, PA"	"42061"	Suppressed	Not Applicable	Not Applicable	Not Applicable	Suppressed
+	"Indiana County, PA"	"42063"	39	Not Applicable	Not Applicable	Not Applicable	1.1%
+	"Jefferson County, PA"	"42065"	Suppressed	Not Applicable	Not Applicable	Not Applicable	Suppressed
+	"Juniata County, PA"	"42067"	Suppressed	Not Applicable	Not Applicable	Not Applicable	Suppressed
+	"Lackawanna County, PA"	"42069"	64	Not Applicable	Not Applicable	Not Applicable	1.8%
+	"Lancaster County, PA"	"42071"	82	Not Applicable	Not Applicable	Not Applicable	2.3%
+	"Lawrence County, PA"	"42073"	23	Not Applicable	Not Applicable	Not Applicable	0.6%
+	"Lebanon County, PA"	"42075"	10	Not Applicable	Not Applicable	Not Applicable	0.3%
+	"Lehigh County, PA"	"42077"	68	Not Applicable	Not Applicable	Not Applicable	1.9%
+	"Luzerne County, PA"	"42079"	125	Not Applicable	Not Applicable	Not Applicable	3.5%
+	"Lycoming County, PA"	"42081"	19	Not Applicable	Not Applicable	Not Applicable	0.5%
+	"Mc Kean County, PA"	"42083"	Suppressed	Not Applicable	Not Applicable	Not Applicable	Suppressed
+	"Mercer County, PA"	"42085"	20	Not Applicable	Not Applicable	Not Applicable	0.6%
+	"Mifflin County, PA"	"42087"	12	Not Applicable	Not Applicable	Not Applicable	0.3%
+	"Monroe County, PA"	"42089"	21	Not Applicable	Not Applicable	Not Applicable	0.6%
+	"Montgomery County, PA"	"42091"	198	Not Applicable	Not Applicable	Not Applicable	5.5%
+	"Montour County, PA"	"42093"	Suppressed	Not Applicable	Not Applicable	Not Applicable	Suppressed
+	"Northampton County, PA"	"42095"	60	Not Applicable	Not Applicable	Not Applicable	1.7%
+	"Northumberland County, PA"	"42097"	25	Not Applicable	Not Applicable	Not Applicable	0.7%
+	"Perry County, PA"	"42099"	Suppressed	Not Applicable	Not Applicable	Not Applicable	Suppressed
+	"Philadelphia County, PA"	"42101"	582	Not Applicable	Not Applicable	Not Applicable	16.2%
+	"Pike County, PA"	"42103"	16	Not Applicable	Not Applicable	Not Applicable	0.4%
+	"Potter County, PA"	"42105"	Suppressed	Not Applicable	Not Applicable	Not Applicable	Suppressed
+	"Schuylkill County, PA"	"42107"	56	Not Applicable	Not Applicable	Not Applicable	1.6%
+	"Snyder County, PA"	"42109"	Suppressed	Not Applicable	Not Applicable	Not Applicable	Suppressed
+	"Somerset County, PA"	"42111"	22	Not Applicable	Not Applicable	Not Applicable	0.6%
+	"Sullivan County, PA"	"42113"	Suppressed	Not Applicable	Not Applicable	Not Applicable	Suppressed
+	"Susquehanna County, PA"	"42115"	10	Not Applicable	Not Applicable	Not Applicable	0.3%
+	"Tioga County, PA"	"42117"	Suppressed	Not Applicable	Not Applicable	Not Applicable	Suppressed
+	"Union County, PA"	"42119"	Suppressed	Not Applicable	Not Applicable	Not Applicable	Suppressed
+	"Venango County, PA"	"42121"	10	Not Applicable	Not Applicable	Not Applicable	0.3%
+	"Warren County, PA"	"42123"	Suppressed	Not Applicable	Not Applicable	Not Applicable	Suppressed
+	"Washington County, PA"	"42125"	79	Not Applicable	Not Applicable	Not Applicable	2.2%
+	"Wayne County, PA"	"42127"	14	Not Applicable	Not Applicable	Not Applicable	0.4%
+	"Westmoreland County, PA"	"42129"	142	Not Applicable	Not Applicable	Not Applicable	4.0%
+	"Wyoming County, PA"	"42131"	Suppressed	Not Applicable	Not Applicable	Not Applicable	Suppressed
+	"York County, PA"	"42133"	68	Not Applicable	Not Applicable	Not Applicable	1.9%
+"Total"			3583	Not Applicable	Not Applicable	Not Applicable	100.0%
+"---"
+"Dataset: Underlying Cause of Death, 1999-2016"
+"Query Parameters:"
+"Title: Deaths not at medical facility"
+"2013 Urbanization: All"
+"Autopsy: All"
+"Drug/Alcohol Induced Causes: Drug-induced causes"
+"Gender: All"
+"Hispanic Origin: All"
+"Place of Death: Decedent's home, Other, Place of death unknown"
+"Race: All"
+"States: Pennsylvania (42)"
+"Ten-Year Age Groups: All"
+"Weekday: All"
+"Year/Month: 2016"
+"Group By: County"
+"Show Totals: True"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Standard Population: 2000 U.S. Std. Population"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Oct 5, 2018 12:28:46 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2016 on CDC WONDER Online Database, released December, 2017. Data are from the Multiple Cause of Death Files, 1999-2016, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Oct 5, 2018 12:28:46 PM"
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when Autopsy, Place of Death, Weekday or Month are grouped by or limited,"
+"due to lack of a valid population. More information: http://wonder.cdc.gov/wonder/help/ucd.html#NotApplicableRates."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality."
+"3. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"4. The populations used to calculate standard age-adjusted rates are documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#2000 Standard Population."
+"5. The method used to calculate age-adjusted rates is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Age-Adjusted Rates."
+"6. Deaths for persons of unknown age are included in counts and crude rates, but are not included in age-adjusted rates."
+"7. The Place of Death category 'Medical Facility - Status unknown' is only available from 1999 - 2002, and 'Hospice facility' is"
+"only available for 2003 and later."
